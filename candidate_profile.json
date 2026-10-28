@@ -1,0 +1,50 @@
+{
+  "profile_name": "Profil Kandidat",
+  "skills": [
+    "SQL",
+    "Python",
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "Looker Studio",
+    "Power Query",
+    "DAX",
+    "Data Analysis",
+    "Data Cleaning",
+    "Data Visualization",
+    "Dashboard Development",
+    "Machine Learning",
+    "Text Mining",
+    "Sentiment Analysis"
+  ],
+  "preferred_categories": [
+    "Data & Business Analytics"
+  ],
+  "years_experience": 1,
+  "education_level": "Bachelor's degree",
+  "preferred_work_models": [],
+  "preferred_countries": [],
+  "preferred_cities": [],
+  "preferred_employment_types": [],
+  "top_n": 100,
+  "target_roles": [
+    "Data Analyst",
+    "Business Intelligence Analyst",
+    "Business Analyst",
+    "Finance Analyst",
+    "Supply Chain Analyst",
+    "Marketing/Sales Analyst",
+    "Operations Analyst",
+    "Reporting Analyst"
+  ],
+  "stretch_roles": [
+    "Data Scientist",
+    "Machine Learning / Data Science Analyst"
+  ],
+  "career_objective": "Mencari peran data dan business analytics yang memanfaatkan skill analisis data dan tools yang tercantum dalam skills.",
+  "profile_quality_notes": [
+    "Pastikan years_experience menjelaskan total pengalaman kerja atau hanya pengalaman yang relevan dengan analytics.",
+    "Tingkat kemahiran setiap skill belum dicatat; daftar skills tidak berarti semua skill berada pada level mahir.",
+    "Preferensi jenis pekerjaan dan model kerja belum dinyatakan; ranking tidak menebaknya."
+  ]
+}
